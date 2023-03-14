@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MadihaMahek
-- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence.
-- 🌱 I’m currently learning Engineering student.
-- 💞️ I’m looking to collaborate on Ml Algo, Dl Algo, Python code.
+- 👀 I’m interested in Data Science, Machine Learning, Software Development, Python Coding...
+- 🌱 I’m currently an Engineering student.
+- 💞️ I’m looking to collaborate on Python code.
 - 📫 How to reach me on LinkedIn @https://www.linkedin.com/in/madiha-mahek-394214222/
 
 <!---
